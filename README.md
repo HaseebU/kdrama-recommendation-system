@@ -24,7 +24,7 @@ Jupyter Notebook: For developing and running the project interactively.
 
 **Project Structure**
 
-kdrama_recommendation_system.ipynb: Jupyter Notebook containing the project code and explanations.
+kdrama_rec.ipynb: Jupyter Notebook containing the project code and explanations.
 kdrama.csv: Dataset containing information about various K-Dramas.
 
 **Example**
