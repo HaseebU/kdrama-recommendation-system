@@ -29,3 +29,4 @@ kdrama.csv: Dataset containing information about various K-Dramas.
 
 **Example**
 
+<img width="790" alt="Screenshot 2024-07-24 at 2 43 45 PM" src="https://github.com/user-attachments/assets/28086521-e41e-4bb4-b773-8936d0f1fa4d">
